@@ -1,0 +1,1 @@
+This is some javascript code writed at this summer,when I read Alax MacCaw's book.
